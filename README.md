@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyi-p&layout=compact&border_color=9fa8da&title_color=5c6bc0)](https://github.com/songyi-p/github-readme-stats)
 </br>
 
-![songyi-p's github stats](https://github-readme-stats.vercel.app/api?username=songyi-p&show_icons=true&theme=buefy&border_color=b39ddb)</br>
+![songyi-p's github stats](https://github-readme-stats.vercel.app/api?username=songyi-p&show_icons=true&theme=buefy&border_color=b39ddb)</br></br>
 
 ### Tech Stack
 

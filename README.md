@@ -5,7 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongyi-p&count_bg=%23F1B5F1&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)</br>
 
-### Contact
+### ⌛️ Contact
 <a href="https://velog.io/@songyi7091"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" width="75"/></a>
 <a href="songyi7091@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" width="75"/></a>
 </br></br>
@@ -15,7 +15,7 @@
 
 ![songyi-p's github stats](https://github-readme-stats.vercel.app/api?username=songyi-p&show_icons=true&theme=buefy&border_color=b39ddb)</br></br>
 
-### Tech Stack
+### ⚒ Tech Stack
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" align="left"/>

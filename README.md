@@ -20,9 +20,11 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" align="left"/>
+<img src="https://img.shields.io/badge/React-Query-9cf?style=for-the-badge&logo=react&logoColor=white" align="left"/>
+<img src="https://img.shields.io/badge/Redux-5c6bc0?style=for-the-badge&logo=react&logoColor=white" align="left"/>
+<img src="https://img.shields.io/badge/Next-ffab00?style=for-the-badge&logo=node.js&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/Styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" align="left"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" align="left"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" align="left"/>
+
 <!--
 **songyi-p/songyi-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

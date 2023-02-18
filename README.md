@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/React-Query-9cf?style=for-the-badge&logo=react&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/Redux-5c6bc0?style=for-the-badge&logo=react&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/Next-ffab00?style=for-the-badge&logo=node.js&logoColor=white" align="left"/>
+<br><br>
 <img src="https://img.shields.io/badge/Styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" align="left"/>
 
 <!--

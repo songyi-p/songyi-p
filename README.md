@@ -3,8 +3,6 @@
 <h3>🎯  저 자신에 대한 끊임없는 DEVELOP을 꿈꾸는 Frontend Developer 입니다.</h3>
 </br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongyi-p&count_bg=%23F1B5F1&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)</br>
-
 ### ⌛️ Contact
 <a href="https://velog.io/@songyi7091"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" width="75"/></a>
 <a href="songyi7091@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" width="75"/></a>
